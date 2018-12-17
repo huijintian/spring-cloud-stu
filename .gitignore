@@ -27,3 +27,5 @@ hs_err_pid*
 .idea/
 spring-cloud-stu.iml
 
+eureka-client/eureka-client.iml
+eureka-server/eureka-server.iml
